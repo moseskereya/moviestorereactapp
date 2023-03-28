@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Footer = () => {
-    const currentyear = new Date()
   return (
     <div className='flex items-center justify-between p-4 w-full absolute mt-4 '>
           <p>Moviestore</p>
@@ -10,4 +9,4 @@ const Footer = () => {
   )
 }
 
-export default Footer   
+export default Footer  
